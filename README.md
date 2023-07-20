@@ -5,7 +5,7 @@ Un Arquetipo de sitio para una tienda de libros en linea
 
 Explicare lo mejor posible cada parte de el proyecto.
 
------> CSS <-----
+------------------------------> CSS <------------------------------
 
 Los códigos que proporcionaste son una hoja de estilos CSS que controla el aspecto y la presentación visual de una página web. A continuación, te explico algunas partes clave de este código:
 
@@ -64,7 +64,7 @@ Estos estilos se aplican a todos los elementos en la página web y proporcionan 
 ```
 Estos bloques de código contienen estilos específicos para diferentes tamaños de pantalla. Se utilizan para asegurar que el diseño sea responsive y se adapte adecuadamente a dispositivos móviles y tabletas.
 
------> JS <-----
+------------------------------> JS <------------------------------
 
 El código que proporcionaste es código JavaScript que controla la funcionalidad y la interacción del sitio web. A continuación, te explico lo que hace cada parte del código:
 
@@ -133,7 +133,7 @@ En este fragmento, se configuran varios deslizadores utilizando la librería Swi
 
 Es importante tener en cuenta que para que estos códigos funcionen correctamente, la página debe incluir la librería Swiper y los elementos HTML asociados con las clases y los ids mencionados en el código. Además, es posible que haya más código JavaScript en el sitio web para proporcionar funcionalidades adicionales.
 
------> HTML <-----
+------------------------------> HTML <------------------------------
 
 Metadatos y Enlaces a Recursos Externos:
 
