@@ -5,7 +5,7 @@ Un Arquetipo de sitio para una tienda de libros en linea
 
 Explicare lo mejor posible cada parte de el proyecto.
 
-------------------------------> CSS <------------------------------
+**------------------------------> CSS <------------------------------**
 
 Los códigos que proporcionaste son una hoja de estilos CSS que controla el aspecto y la presentación visual de una página web. A continuación, te explico algunas partes clave de este código:
 
