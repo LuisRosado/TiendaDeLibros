@@ -132,3 +132,56 @@ Cuando la página se ha cargado completamente (evento "onload"), se verifica si 
 En este fragmento, se configuran varios deslizadores utilizando la librería Swiper para crear carousels interactivos para diferentes secciones (como libros, destacados, nuevos productos, reseñas y blogs).
 
 Es importante tener en cuenta que para que estos códigos funcionen correctamente, la página debe incluir la librería Swiper y los elementos HTML asociados con las clases y los ids mencionados en el código. Además, es posible que haya más código JavaScript en el sitio web para proporcionar funcionalidades adicionales.
+
+-----> HTML <-----
+
+Metadatos y Enlaces a Recursos Externos:
+
+Se definen los metadatos básicos del documento, como el juego de caracteres (UTF-8) y la compatibilidad con Internet Explorer.
+Se vinculan archivos externos necesarios para la página, como hojas de estilos CSS y fuentes.
+Cabecera (Header):
+
+Contiene el logotipo de la tienda de libros y un formulario de búsqueda.
+También incluye íconos de búsqueda, corazón, carrito de compras y un botón de inicio de sesión.
+Navegación Principal:
+
+Una barra de navegación que contiene enlaces a diferentes secciones de la página, como "Home", "Destacados", "Nuevos libros", "Reseñas" y "Blogs".
+Barra de Navegación Inferior (Bottom Navbar):
+
+Una barra de navegación ubicada en la parte inferior de la página, que contiene íconos para las mismas secciones principales de la página.
+Formulario de Inicio de Sesión:
+
+Un formulario emergente para iniciar sesión en la tienda. Incluye campos para el correo electrónico y la contraseña, una opción para recordar la sesión iniciada y enlaces para restablecer la contraseña y crear una nueva cuenta.
+Sección de Inicio (Home):
+
+Esta sección presenta una oferta con un descuento del 75% en libros durante la semana santa.
+También hay un carrusel de imágenes de libros y un soporte para libros en la parte inferior.
+Sección de Iconos:
+
+Esta sección muestra cuatro íconos, cada uno con un título y un texto descriptivo. Representa las características de la tienda, como envío gratis, pago seguro, devoluciones y soporte 24/7.
+Sección de Libros Destacados (Featured):
+
+Muestra una selección de libros destacados, cada uno con una imagen, título, precio y botón para agregar al carrito. También incluye íconos para buscar, agregar a favoritos y ver más detalles.
+Sección de Boletín de Noticias (Newsletter):
+
+Permite a los usuarios suscribirse para recibir las últimas actualizaciones a través de un formulario con un campo para el correo electrónico y un botón de suscripción.
+Sección de Nuevos Libros (Arrivals):
+
+Presenta una selección de los libros más recientes en un carrusel. Cada libro muestra una imagen, título, precio, calificación de estrellas y botón para más detalles.
+Sección de Ofertas (Deal):
+
+Muestra una oferta del día con un descuento del 50%. Incluye un título, texto descriptivo, imagen y un botón para comprar.
+Sección de Opiniones de Clientes (Reviews):
+
+Presenta una selección de reseñas de clientes en un carrusel. Cada reseña muestra una imagen de perfil, nombre del cliente, comentario y calificación de estrellas.
+Sección de Blogs:
+
+Muestra una selección de blogs en un carrusel. Cada blog tiene una imagen, título, texto descriptivo y un botón para leer más.
+Pie de Página (Footer):
+
+Contiene información de contacto y enlaces a las ubicaciones, enlaces rápidos, enlaces adicionales y redes sociales de la tienda.
+También muestra el crédito del creador del sitio web y los derechos reservados.
+Cargador (Loader):
+
+Incluye una animación de carga que se muestra mientras se carga el contenido de la página.
+Además, se utiliza la biblioteca Swiper para implementar los carruseles de imágenes en las secciones de libros destacados, nuevos libros, opiniones de clientes y blogs.
