@@ -7,6 +7,8 @@ Un Arquetipo de sitio para una tienda de libros en linea
 
 ![image](https://github.com/LuisRosado/TiendaDeLibros/assets/140114139/10e160d0-bb7a-4e4c-9465-32272818aa38)
 
+![image](https://github.com/LuisRosado/TiendaDeLibros/assets/140114139/0febf60d-b491-4fb5-848c-20a2c5c836dd)
+
 Explicare lo mejor posible cada parte de el proyecto.
 
 **------------------------------>> CSS <<------------------------------**
